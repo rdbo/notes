@@ -1,0 +1,5 @@
+1. Make the local repository identical to the remote one: git clone https://github.com/user/repo
+2. Add remote origin to the repository: git remote add origin https://github.com/user/repo.git
+3. Remove (git rm -r)/ Add (git add) files through the local repository
+4. Commit changes: git commit -m "commit"
+5. Push commit to remote repository: git push origin branchname

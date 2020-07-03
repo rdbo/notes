@@ -1,0 +1,1 @@
+wget -r ftp://user:password@XXX.XXX.XXX.XXXX:PORT/path/

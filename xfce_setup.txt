@@ -1,0 +1,9 @@
+﻿1. Install “xfce4-whiskermenu-plugin” and add its item to the panel. Make the Windows key run the command “xfce4-popup-whiskermenu” to toggle it.
+
+2. Install a custom icon theme (such as Flat Remix)
+
+3. Install a custom GTK theme (such as Flat Remix)
+
+4. Setup the icon theme and the GTK theme through the Appearance
+
+5. Setup the window bar theme through the Window Manager

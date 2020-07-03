@@ -1,0 +1,3 @@
+31604 ?        S      0:00 /bin/sh -c '/home/rdbo/.local/share/Steam/steamapps/common/Half-Life/hl.sh' -steam -game cstrike -insecure
+31605 ?        S      0:00 /bin/bash /home/rdbo/.local/share/Steam/steamapps/common/Half-Life/hl.sh -steam -game cstrike -insecure
+31608 ?        Sl     0:01 /home/rdbo/.local/share/Steam/steamapps/common/Half-Life/hl_linux -steam -game cstrike -insecure

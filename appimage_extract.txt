@@ -1,0 +1,1 @@
+./Program.AppImage --appimage-extract
